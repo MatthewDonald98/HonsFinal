@@ -1,0 +1,305 @@
+<resources>
+    <string name="app_name">SecureYou</string>
+    <string name="key_name">name</string>
+    <string name="titleimage">TitleImage</string>
+    <string name="start_button">Start Button</string>
+    <string name="persons_name">Persons name</string>
+    <string name="storyImage">StoryImage</string>
+
+    <string name="page0">You check your phone, it says 16:55. You just
+        finished a tough project and are excited to get home for the day.
+        While getting ready to leave the office, you check your email and
+        see there is something new in your inbox that looks to be from
+        someone in upper management.</string>
+    <string name="page0_choice1">Open the new email</string>
+    <string name="page0_choice2">Go home and deal with it later</string>
+
+    <string name="page1">You open the email and it reads, \n
+        "Dear %1$s, \n \n
+        It has come to our attention that the system that stores employee
+        information requires an update so you will need to enter
+        your login information into the linked form at the bottom
+        of the email so that the system can be updated with your
+        current login details."</string>
+    <string name="page1_choice1">Enter required information</string>
+    <string name="page1_choice2">Ask supervisor about the email</string>
+
+    <string name="page2">You leave work just after receiving the email to go
+        home, traffic is not as bad as usual and you make it home in good time.
+        For dinner you have a plate of lasagna and try to decide what to do for
+        the evening.  </string>
+    <string name="page2_choice1">Watch TV</string>
+    <string name="page2_choice2">Play Video Games</string>
+
+    <string name="page3">You enter your credentials into the web-page that the
+        link directed you too. You filled it in quickly as you wanted to get
+        home to watch "The Chase". Once home you relax for the evening and
+        forget about the email. </string>
+    <string name="page3_choice1">Go to bed early</string>
+    <string name="page3_choice2">Stay up later</string>
+
+    <string name="page4">At around 8 PM you decide it might be worth checking the
+        email before going into work the next day. It reads,\n
+        "Dear %1$s,\n It has come to our attention that the system that stores
+        employee information requires an update so you will need to enter
+        your login information into the linked form at the bottom
+        of the email so that the system can be updated with your
+        current login details."  </string>
+    <string name="page4_choice1">Enter required information</string>
+    <string name="page4_choice2">Deal with email at work tomorrow</string> <!--needs a solution-->
+
+    <string name="page5">You get into work early to find that there has been
+        a company wide phishing attack in which confidential company information
+        was released. You begin to remember the email from yesterday and decide
+        to take a closer look.</string>
+    <string name="page5_choice1">Look at email again closely</string>
+    <string name="page5_choice2">Tell supervisor about email</string>
+
+    <string name="page6">You report the information to your supervisor and
+        are informed that there has been no change to the company\'s storage
+        system so therefore should not have received an email. You are
+        advised to not input anything into the form. The supervisor alerts the
+        security team within the company and an email is sent out alerting
+        others who may have received the email. \n \n Good Job! You have saved
+        the company\'s secrets.</string>
+
+    <string name="page7">You look at the email again and see there are some signs
+        that this email is not from a legitimate source.\n Some tell-tale signs of
+        phishing can include an email address sent from a public domain such as
+        "@gmail.com", no legitimate organisation will contact from an address like
+        this. Another simple sign that an email may not be legitimate is that it is
+        poorly written with even some potential misspellings including that of the
+        domain name. \n
+        \n
+         Furthermore, the most common phishing emails will begin very generically as there
+        are many emails sent at once to different people. This results in many phishing
+        emails beginning with greetings such as “Dear Customer” or “Dear Employee”. However
+        this does not mean that an email that does use your name is not a phishing email as
+        there are many social engineering methods that an attacker could use to find your name,
+        this is referred to as a spear-phishing attack so it is best to look for other signs also. \n
+        \n
+        Moreover, it is good to be on the look-out for emails that request urgent action is taken,
+        such as emails warning that “your account will be closed” or “your account has been
+        compromised” as these are used to generate a greater concern from the reader increasing the
+        chance of the reader clicking a link. \n \n
+
+        It is important to note that phishing scams are not only received through email. They can come
+        through a variety of means, such as through messenger apps. It is important to make sure any message
+        received in relation to anything about private credentials is legit, this can be done by contacting the
+        sender company at an email or phone number you have used for legitimate contact before. Some sites that
+        are commonly impersonated by scammers are Facebook, Twitter and LinkedIn, with LinkedIn recording the most
+        attempted phishing scams of the three.   \n \n
+
+        Signs that you may be on a phishing website include a pop-up or pop-ups being displayed as
+        soon as you enter the website. These pop-ups will usually request your username and
+        password. If this happens it is best to leave the site without entering any information. \n
+        \n
+        Another way to check if a site is secure is to check the web address. It is worth having a
+        closer look at things such as misspelled/incorrect company names. Additionally, when looking
+        at the web address “https” is safer than “http”.
+ </string>
+
+    <string name="page8"> You go to a company mandated workshop to educate yourself on cyber-security, from this you learn some valuable things.  \n Some tell-tale signs of
+        phishing can include an email address sent from a public domain such as
+        "@gmail.com", no legitimate organisation will contact from an address like
+        this. Another simple sign that an email may not be legitimate is that it is
+        poorly written with even some potential misspellings including that of the
+        domain name. \n
+        \n
+         Furthermore, the most common phishing emails will begin very generically as there
+        are many emails sent at once to different people. This results in many phishing
+        emails beginning with greetings such as “Dear Customer” or “Dear Employee”. However
+        this does not mean that an email that does use your name is not a phishing email as
+        there are many social engineering methods that an attacker could use to find your name,
+        this is referred to as a spear-phishing attack so it is best to look for other signs also. \n
+        \n
+        Moreover, it is good to be on the look-out for emails that request urgent action is taken,
+        such as emails warning that “your account will be closed” or “your account has been
+        compromised” as these are used to generate a greater concern from the reader increasing the
+        chance of the reader clicking a link. \n \n
+
+        It is important to note that phishing scams are not only received through email. They can come
+        through a variety of means, such as through messenger apps. It is important to make sure any message
+        received in relation to anything about private credentials is legit, this can be done by contacting the
+        sender company at an email or phone number you have used for legitimate contact before. Some sites that
+        are commonly impersonated by scammers are Facebook, Twitter and LinkedIn, with LinkedIn recording the most
+        attempted phishing scams of the three.   \n \n
+
+        Signs that you may be on a phishing website include a pop-up or pop-ups being displayed as
+        soon as you enter the website. These pop-ups will usually request your username and
+        password. If this happens it is best to leave the site without entering any information. \n
+        \n
+        Another way to check if a site is secure is to check the web address. It is worth having a
+        closer look at things such as misspelled/incorrect company names. Additionally, when looking
+        at the web address “https” is safer than “http”.</string>
+    <string name="page9">You enter your credentials into the web-page that the
+        link directed you too. You filled it in quickly as you wanted to get
+        home to watch "The Chase". Once home you relax for the evening and
+        forget about the email. </string>
+    <string name="page9_choice1">Go to bed early</string>
+    <string name="page9_choice2">Stay up later</string>
+
+    <string name="startButton">Begin the game</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="phishing">Phishing Story</string>
+    <string name="index_title">Choose an Option</string>
+    <string name="malwareButtonText">Malware Story</string>
+    <string name="attacker_story">Attacker Story</string>
+    <string name="quizString">Quiz</string>
+
+    <string name="page02">You arrive at work in the morning, after parking your car, while walking into work you discover a USB stick lying in the
+        car park. You pick it up and take it into work with you.</string>
+    <string name="page02_choice1">Plug it in</string>
+    <string name="page02_choice2">Hand into reception</string>
+    <string name="page12">You plug in the USB to your computer to see what’s on it and find nothing. You think someone may have just dropped a
+        new USB. You decide to forget about it and continue your work for the day.</string>
+    <string name="page12_choice1">Respond to emails</string>
+    <string name="page12_choice2">Answer calls</string>
+    <string name="page22">After handing the USB in to the reception you go to your desk to begin working. However, before starting you decide to
+        check your email. Inside, there is an email offering you a discount on Netflix.</string>
+    <string name="page22_choice1">Click the link</string>
+    <string name="page22_choice2">Ignore the link</string>
+    <string name="page32">You finish work for the morning and decide it would be a good time to stop and have lunch. You leave your desk to grab
+        something to eat.</string>
+    <string name="page32_choice1">Have a sandwich</string>
+    <string name="page32_choice2">Have a bowl of soup</string>
+    <string name="page42">The link takes you to a site that does not seem legit, you leave the site quickly after clicking on nothing within it.
+        You go back to the work you were doing before.</string>
+    <string name="page42_choice1">Respond to emails</string>
+    <string name="page42_choice2">Answer calls</string>
+    <string name="page52">Congratulations! You have avoided the cyber security threats that presented in this short story.</string>
+    <string name="page62">You come back to your desk after lunch to discover that you are locked out of your system. The screen shows that you are
+        required to send an amount of bitcoin to decrypt files on your computer. You wonder how this could have happened and realise the unidentified
+        USB that was plugged into the computer.</string>
+    <string name="page62_choice1">Tell your supervisor there is a problem</string>
+    <string name="page62_choice2">Try and find information yourself</string>
+    <string name="page72">You inform your boss about the attack on your system, he decides it would be good to hold a meeting with employees to discuss
+        malware attacks. \n \n
+        During the meeting a lot of useful information was given. \n \n
+        Malicious software can come in many forms; these can range from not very to very dangerous. One type of malware that is not dangerous but
+        annoying is adware. Adware displays ads on your computer and is very lucrative for the implementer of the adware. Another common type of
+        malware is spyware which is software that tracks your internet activity in order to send advertising back to your system, this malware works
+        well with adware. \n \n The most dangerous malware are trojans, trojans are written with the intention of discovering your financial information,
+        taking over your computer’s system resources, and in larger systems creating a denial-of-service attack. A worm, another type of malware is a
+        programme that replicates itself and destroys data and files on the computer. Worms work to “eat” the system operating files and data files
+        until the drive is empty. \n \n A Rootkit, another type of malware is the hardest of all malware to detect and therefore remove; experts have
+        even recommended wiping your hard drive and installing everything from scratch. Furthermore, a keylogger records everything typed on your PC,
+        this allows for the keylogger to record sensitive information such as log-in names and passwords. Moreover, Ransomware is another type of
+        malware that has been in the news in recent years. Ransomware locks you out of your system and requests payment to decrypt encrypted files,
+        sometimes there will be a timer present on the screen and if payment is not made within the time the files will be deleted permanently.
+        A virus is a contagious program or code that attaches itself to another piece of software, and then reproduces itself when that software is run. Most often this
+        is spread by sharing software or files between computers. \n \n
+        Malware can be given to a victim in many forms, these include Instant Messenger applications such as whatsApp, removable devices such as USB drives,
+        fake software and untrusted sites and freeware. \n \n
+        Malware attacks can be avoided or mitigated in many ways; one such simple solution is to update your software, i.e. whenever your
+        OS prompts you for an update download it. It is also wise to update your browsers, antivirus software and firewall. Furthermore, securing
+        your hardware is also important as electronics can be stolen, this can be solved by investing in hardware encryption and security keys.
+        Furthermore, encrypting your data can stop hackers from understanding the information if they manage to get into your system.
+    </string>
+    <string name="page82">After searching online, you came across many useful websites and blogs. From them you learned many valuable points.
+        \n \n Malware can come in many forms; these can range from not very to very dangerous. One type of malware that is not dangerous but annoying
+        is adware. Adware displays ads on your computer and is very lucrative for the implementer of the adware. Another common type of malware is
+        spyware which is software that tracks your internet activity in order to send advertising back to your system, this malware works well with
+        adware. \n \n The most dangerous malware are trojans, trojans are written with the intention of discovering your financial information, taking
+        over your computer’s system resources, and in larger systems creating a denial-of-service attack. A worm, another type of malware is a programme
+        that replicates itself and destroys data and files on the computer. Worms work to “eat” the system operating files and data files until the
+        drive is empty. \n \n A Rootkit, another type of malware is the hardest of all malware to detect and therefore remove; experts have even
+        recommended wiping your hard drive and installing everything from scratch. Furthermore, a keylogger records everything typed on your PC,
+        this allows for the keylogger to record sensitive information such as log-in names and passwords. Moreover, Ransomware is another type of
+        malware that has been in the news in recent years. Ransomware locks you out of your system and requests payment to decrypt encrypted files,
+        sometimes there will be a timer present on the screen and if payment is not made within the time the files will be deleted permanently.
+        A virus is a contagious program or code that attaches itself to another piece of software, and then reproduces itself when that software is run. Most often this
+        is spread by sharing software or files between computers. \n \n
+        Malware can be given to a victim in many forms, these include Instant Messenger applications such as whatsApp, removable devices such as USB drives,
+        fake software and untrusted sites and freeware. \n \n
+        Malware attacks can be avoided or mitigated in many ways; one such simple solution is to update your software, i.e. whenever your OS
+        prompts you for an update download it. It is also wise to update your browsers, antivirus software and firewall. Furthermore, securing your
+        hardware is also important as electronics can be stolen, this can be solved by investing in hardware encryption and security keys.
+        Furthermore, encrypting your data can stop hackers from understanding the information if they manage to get into your system.
+
+    </string>
+
+    <string name="page03">Cyber-attacks commonly begin with the attacker scoping out the target. This is called reconnaissance. In this phase you,
+        the attacker, would identify the target or targets of the attack. It is also the stage where the existing security measures are determined
+        and used to decide what attack is best used.</string>
+    <string name="page03_choice1">Send a phishing email</string>
+    <string name="page03_choice2">Use a spider programme</string>
+    <string name="page13">You begin composing a phishing email to target all employees in an organisation, you decide the subject of the email
+        should be…</string>
+    <string name="page13_choice1">Account has been compromised</string>
+    <string name="page13_choice2">You need to update your details</string>
+    <string name="page23">After running the spider programme, you have found a vulnerability in the system that you can use to exploit and gain access
+        to the underlying system. You decide it is a good place to insert some malware.</string>
+    <string name="page23_choice1">Insert a remote access trojan</string>
+    <string name="page23_choice2">Insert a Rootkit</string>
+    <string name="page33">Once you have composed the phishing email you send it to all the employees at the company that you have access to. This type
+        of attack does not have a lot of success however you only need one or two individuals within the company to give their details. With a
+        successful attack you can get access to the company’s system. You use this to insert a…</string>
+    <string name="page33_choice1">Insert a remote access trojan</string>
+    <string name="page33_choice2">Insert a Rootkit</string>
+    <string name="page43">Once you, the attacker, has established a connection to the internal network you seek to compromise additional systems
+        and user accounts. This is commonly easy as the compromised account usually does not stand out as compromised.</string>
+    <string name="page43_choice1">Steal sensitive data</string>
+    <string name="page43_choice2">Encrypt data</string>
+    <string name="page53">Hacking occurs in five stages, these are Reconnaissance, Scanning, Gaining Access, maintaining access and clearing tracks.
+    Reconnaissance is the preparatory phase whereas much information is collected as possible about the target. The information is usually collected
+    in three main groups, Network, Host and People involved. There are two types of reconnaissance involved Active and Passive. Active involves
+    interacting directly with the target such as using tools to scan the target. Passive is trying to collect information about the target without
+    directly accessing them such as collecting information from social media or websites accessible to the public. \n \n
+    The scanning phase involves three types of scanning, Port scanning, which scans the target for things like open ports, live systems and services
+    running on the host. Another type is vulnerability scanning which is used to check the target for weaknesses or vulnerabilities which can be
+    exploited. This stage is usually done with automated tools. The final type of scanning is Network mapping, this type of scanning finds the
+    topology of the network that shows routers, firewalls and any other host information. \n \n
+    The third phase is gaining access, this phase is where an attacker actually breaks into the target system using various tools. After entering it
+    is important to increase your privilege to administrator level so that applications that are needed can be installed and data can be modified
+    or deleted. The fourth stage of the process is maintaining access, as once access is gained it is important to make sure the connection
+    persists. This can be done by using trojans, rootkits or other malicious files. The aim of this stage is to maintain the access until the task
+    the attacker wants to complete is finished. \n \n
+    The final stage of the attack is to remove all evidence that you were in the system. This involves modifying, corrupting or deleting the values of
+    Logs, modifying registry values and uninstalling all applications that were downloaded and deleting all folders that were created. \n \n
+    Names are given to different types of hackers, there are white hat hackers who are ethical hackers who work within organisations to improve their
+    security systems. White hat hackers are legally permitted to try and attack am organisations system. This type of hacker discloses every vulnerability
+    that is discovered so that it can be changed. Black hat hackers on the other hand attempt to gain unauthorised entry into a system or network to exploit
+    them for malicious reasons. Unlike the white hat hackers, black hat hackers have no permission for their activities and their goal is to steal information
+    and/or cause as much damage to the system as possible. The final type is grey hat hackers, like black hat hackers, they have no permission to exploit
+    networks. However, they do not exploit networks with malicious intent, disclosing any weaknesses they find to the owner of network. They may also extort
+    the hacked offering to fix the problem for a fee.
+    </string>
+    <string name="page63">Hacking occurs in five stages, these are Reconnaissance, Scanning, Gaining Access, maintaining access and clearing tracks.
+        Reconnaissance is the preparatory phase whereas much information is collected as possible about the target. The information is usually collected
+        in three main groups, Network, Host and People involved. There are two types of reconnaissance involved Active and Passive. Active involves
+        interacting directly with the target such as using tools to scan the target. Passive is trying to collect information about the target without
+        directly accessing them such as collecting information from social media or websites accessible to the public. \n \n
+        The scanning phase involves three types of scanning, Port scanning, which scans the target for things like open ports, live systems and services
+        running on the host. Another type is vulnerability scanning which is used to check the target for weaknesses or vulnerabilities which can be
+        exploited. This stage is usually done with automated tools. The final type of scanning is Network mapping, this type of scanning finds the
+        topology of the network that shows routers, firewalls and any other host information. \n \n
+        The third phase is gaining access, this phase is where an attacker actually breaks into the target system using various tools. After entering it
+        is important to increase your privilege to administrator level so that applications that are needed can be installed and data can be modified
+        or deleted. The fourth stage of the process is maintaining access, as once access is gained it is important to make sure the connection
+        persists. This can be done by using trojans, rootkits or other malicious files. The aim of this stage is to maintain the access until the task
+        the attacker wants to complete is finished. \n \n
+        The final stage of the attack is to remove all evidence that you were in the system. This involves modifying, corrupting or deleting the values of
+        Logs, modifying registry values and uninstalling all applications that were downloaded and deleting all folders that were created. \n \n
+        Names are given to different types of hackers, there are white hat hackers who are ethical hackers who work within organisations to improve their
+        security systems. White hat hackers are legally permitted to try and attack am organisations system. This type of hacker discloses every vulnerability
+        that is discovered so that it can be changed. Black hat hackers on the other hand attempt to gain unauthorised entry into a system or network to exploit
+        them for malicious reasons. Unlike the white hat hackers, black hat hackers have no permission for their activities and their goal is to steal information
+        and/or cause as much damage to the system as possible. The final type is grey hat hackers, like black hat hackers, they have no permission to exploit
+        networks. However, they do not exploit networks with malicious intent, disclosing any weaknesses they find to the owner of network. They may also extort
+        the hacked offering to fix the problem for a fee.
+    </string>
+    <string name="highscore">Highscore: 0</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="question">Question: 1/x</string>
+    <string name="score">Score: 0</string>
+    <string name="category">Category:</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="_00_30">00:30</string>
+    <string name="here_will_be_the_question_text_nhere_will_be_the_question_text_nhere_will_be_the_question_text">Here will be the question text Here will be the question text Here will be the question text</string>
+    <string name="confirm">Confirm</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+
+</resources>
